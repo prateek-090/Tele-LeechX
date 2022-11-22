@@ -22,3 +22,4 @@ speedtest-cli
 tgcrypto
 urllib3
 youtube_dl
+python==3.9.15
